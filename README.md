@@ -1,2 +1,2 @@
 # msc-ucl-huntingtons-mri-project
-MRI biomarker analysis scripts from MSc Clinical Neuroscience disserattaion, UCL
+MRI biomarker analysis scripts from MSc Clinical Neuroscience dissertation, UCL
