@@ -101,13 +101,13 @@ All statistical modelling performed in **STATA**:
 - Cerebral white matter (q = 0.006) and brainstem (q = 0.104) also showed significant between-group differences, though partly attributable to control-group volume increases and known segmentation limitations in these regions.
 
 ### CAP100 associations
-Of the 16 significant ROIs, subcortical grey matter regions — putamen, pallidum, caudate, and accumbens showed significant correlation with CAP100 (all q < 0.15), confirming their sensitivity to cumulative disease burden. Cortical ROIs did not reach significance on CAP100 analysis, suggesting their atrophy signal, while detectable at the group level, may not yet track individual disease burden at this early stage.
+Of the 16 significant ROIs, subcortical grey matter regions, putamen, pallidum, caudate, and accumbens showed significant correlation with CAP100 (all q < 0.15), confirming their sensitivity to cumulative disease burden. Cortical ROIs did not reach significance on CAP100 analysis, suggesting their atrophy signal, while detectable at the group level, may not yet track individual disease burden at this early stage.
 
 ---
 
 ## Limitations
 
-- Occipital lobe (calcarine cortex, lingual gyrus) and cerebral white matter findings are partly driven by volume increases in the control group rather than atrophy in HDGE participants, and may reflect segmentation artefacts rather than true biological differences — these should be interpreted cautiously
+- Occipital lobe (calcarine cortex, lingual gyrus) and cerebral white matter findings are partly driven by volume increases in the control group rather than atrophy in HDGE participants, and may reflect segmentation artefacts rather than true biological differences, these should be interpreted cautiously
 - Thalamic atrophy was not elevated, consistent with prior reports of relative thalamic sparing in early HD; thalamic segmentation on T1-weighted MRI is also inherently challenging due to poor boundary contrast
 - Cortical ROI atrophy rates were closer to significance thresholds than subcortical structures, reflecting subtler and more variable signal at this early disease stage
 - Sample size limits power to detect small regional effects; findings require replication in larger cohorts
