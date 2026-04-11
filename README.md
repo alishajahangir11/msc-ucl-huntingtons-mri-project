@@ -95,13 +95,13 @@ All statistical modelling performed in **STATA**:
 | Parietal | Angular gyrus; precuneus; parietal operculum |
 | Occipital | Calcarine cortex; lingual gyrus* |
 
-*Occipital findings driven by volume increases in controls rather than atrophy in HDGE — interpret with caution (see Limitations).
+*Occipital findings driven by volume increases in controls rather than atrophy in HDGE -  interpret with caution (see Limitations).
 
 **White matter & brainstem**
 - Cerebral white matter (q = 0.006) and brainstem (q = 0.104) also showed significant between-group differences, though partly attributable to control-group volume increases and known segmentation limitations in these regions.
 
 ### CAP100 associations
-Of the 16 significant ROIs, subcortical grey matter regions — putamen, pallidum, caudate, and accumbens — showed significant correlation with CAP100 (all q < 0.15), confirming their sensitivity to cumulative disease burden. Cortical ROIs did not reach significance on CAP100 analysis, suggesting their atrophy signal, while detectable at the group level, may not yet track individual disease burden at this early stage.
+Of the 16 significant ROIs, subcortical grey matter regions — putamen, pallidum, caudate, and accumbens showed significant correlation with CAP100 (all q < 0.15), confirming their sensitivity to cumulative disease burden. Cortical ROIs did not reach significance on CAP100 analysis, suggesting their atrophy signal, while detectable at the group level, may not yet track individual disease burden at this early stage.
 
 ---
 
