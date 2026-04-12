@@ -2,7 +2,7 @@
 
 ## Background & Motivation
 
-Huntington's disease (HD) is a fatal autosomal dominant neurodegenerative disorder caused by a CAG repeat expansion in the *HTT* gene. Striatal atrophy, particularly of the caudate and putamen, is the field's established MRI biomarker of HD progression, detectable years before clinical motor onset. However, emerging gene therapies such as **AMT-130 (uniQure)** involve direct neurosurgical infusion of AAV5 vectors into the caudate and putamen via convection-enhanced delivery. Post-surgical MRI signal changes at these sites, including T2 hyperintensities and structural distortion, may reflect procedural effects rather than disease-related atrophy, confounding the very biomarkers trials rely on.
+Huntington's disease (HD) is a fatal autosomal dominant neurodegenerative disorder caused by a CAG repeat expansion in the *HTT* gene. Striatal atrophy, particularly of the caudate and putamen, is the field's established MRI biomarker of HD progression, detectable years before clinical motor onset. However, emerging gene therapies which involve direct neurosurgical infusion of AAV5 vectors into the caudate and putamen via convection-enhanced delivery. Post-surgical MRI signal changes at these sites, including T2 hyperintensities and structural distortion, may reflect procedural effects rather than disease-related atrophy, confounding the very biomarkers trials rely on.
 
 This project addresses that problem directly: by identifying **non-striatal brain regions** that show significant longitudinal atrophy in HD gene-expanded (HDGE) individuals nearly two decades before predicted motor onset, it aims to establish complementary MRI outcome measures that remain interpretable post-intervention.
 
